@@ -1,0 +1,8 @@
+runtime: python
+handlers:
+- url: /
+  static_files: index.html
+  upload: index.html
+
+- url: /style
+  static_dir: style
