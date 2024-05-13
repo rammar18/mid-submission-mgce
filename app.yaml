@@ -1,5 +1,4 @@
 runtime: python39
-threadsafe: true
 
 handlers:
 - url: /
