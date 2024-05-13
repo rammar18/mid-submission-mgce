@@ -7,3 +7,6 @@ handlers:
 
 - url: /style
   static_dir: style
+
+- url: /asset
+  static_dir: asset
